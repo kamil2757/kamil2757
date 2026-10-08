@@ -1,4 +1,8 @@
-## Hi there 👋
+## Студент 1 курса КНИТУ-КХТИ (861-ТОП862). Занимаюсь программированием и дизайном со школы.
+Стек: React, React Native, Python/Django, Figma. Понимаю полный цикл веб-разработки — от UI/UX до REST API. Делаю кроссплатформенные приложения и пет-проекты, которыми пользуюсь сам.
+Веду YouTube-канал об IT. Изучаю английский
+Ищу стажировку с реальными задачами и возможностью роста.
+
 
 <!--
 **kamil2757/kamil2757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
