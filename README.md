@@ -1,20 +1,25 @@
-## Студент 1 курса КНИТУ-КХТИ (861-ТОП862). Занимаюсь программированием и дизайном со школы.
-Стек: React, React Native, Python/Django, Figma. Понимаю полный цикл веб-разработки — от UI/UX до REST API. Делаю кроссплатформенные приложения и пет-проекты, которыми пользуюсь сам.
-Веду YouTube-канал об IT. Изучаю английский
-Ищу стажировку с реальными задачами и возможностью роста.
+Студент 1 курса КНИТУ-КХТИ. Пишу код и рисую интерфейсы со школы.
 
+### 🛠 Стек
 
-<!--
-**kamil2757/kamil2757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-Here are some ideas to get you started:
+### Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔁 Полный цикл веба: от макета в Figma до REST API на Django
+- 📱 Кроссплатформенные приложения на React Native
+- 🧪 Пет-проекты, которыми пользуюсь каждый день
+- 🎥 [YouTube-канал](ССЫЛКА) об IT и разработке
+
+### Сейчас ищу
+
+Стажировку с реальными задачами и возможностью расти как разработчик.
+
+### 📬 Связь
+
+- Telegram: [@your_username](https://t.me/your_username)
+- Email: your@email.com
