@@ -22,4 +22,4 @@
 ### 📬 Связь
 
 - Telegram: [@ia_kamil](https://t.me/your_username)
-- Email: kamilgumerov16@gmai.com
+- Email: kamilgumerov16@gmail.com
